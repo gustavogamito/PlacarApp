@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_desenvolvido_por">Desenvolvido por Gustavo Gamito</string>
+    <string name="label_gol">Gol</string>
+    <string name="label_titulo">Times</string>
+</resources>
