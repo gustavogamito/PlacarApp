@@ -2,4 +2,6 @@
     <string name="app_name">PlacarApp</string>
     <string name="label_titulo">Times</string>
     <string name="label_desenvolvido_por">Desenvolvido por Gustavo Gamito</string>
+    <string name="placar_inicial">0</string>
+    <string name="label_gol">Gol</string>
 </resources>
